@@ -31,3 +31,8 @@ This repository serves as a directory of projects that I have completed or are c
 - **Description**: A **JavaScript calculator** featuring a graphical interface, real-time calculations, keyboard input support, and a themed UI.
 - **Technologies**: JavaScript, HTML, CSS
 - **GitHub Repo**: [Web-Based Calculator](https://github.com/MYOR-Mitchell/KidsCalc_JS)
+
+### **6. Trivia Quiz (JavaScript)**
+- **Description**: A **browser-based quiz**. Features **randomized questions, real-time feedback, and a retry option**.
+- **Technologies**: Javascript, HTML, CSS
+- **GitHub Repo**: [Trivia Quiz](https://github.com/yourusername/OnePieceTriviaGame)  
