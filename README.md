@@ -26,3 +26,8 @@ This repository serves as a directory of projects that I have completed or are c
 - **Description**: A **browser-based number guessing game** where players try to guess a randomly generated number, with real-time feedback and input tracking.
 - **Technologies**: JavaScript, HTML, CSS, Bootstrap
 - **GitHub Repo**: [Guessing Game](https://github.com/MYOR-Mitchell/GuessingGame) 
+
+### **5. Web-Based Calculator (JavaScript)**
+- **Description**: A **JavaScript calculator** featuring a graphical interface, real-time calculations, keyboard input support, and a themed UI.
+- **Technologies**: JavaScript, HTML, CSS
+- **GitHub Repo**: [Web-Based Calculator](https://github.com/MYOR-Mitchell/KidsCalc_JS)
